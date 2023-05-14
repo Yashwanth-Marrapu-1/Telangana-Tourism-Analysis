@@ -11,4 +11,5 @@ Provide useful insights to increase the revenue of Telangana government by impro
 
 
 #codebasic challenge 5: https://codebasics.io/challenge/codebasics-resume-project-challenge
-LinkedIn Post Link : https://www.linkedin.com/posts/marrapu-yashwanth-34366a156_telangana-tourism-analysis-activity-7063575215661846528-A_uZ?utm_source=share&utm_medium=member_desktop
+
+#LinkedIn Post Link : https://www.linkedin.com/posts/marrapu-yashwanth-34366a156_telangana-tourism-analysis-activity-7063575215661846528-A_uZ?utm_source=share&utm_medium=member_desktop
